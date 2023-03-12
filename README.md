@@ -14,7 +14,11 @@ git clone https://gitee.com/cute-os/cute-os-iso-image.git
 Note: The image file of CuteOS must exist in the script root directory. Please modify the script according to the version of CuteOS to successfully build your own iso
 ```bash
 cd CuteOS-iso-image
-bahe ./01_welo-cute-iso.sh
+bash ./01_welo-cute-iso.sh
+```
+After running 01_welo-cute-iso.sh, execute:
+```bash
+bash ./03_iso-image.sh
 ```
 Build iso according to prompts.
 
