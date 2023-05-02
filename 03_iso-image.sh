@@ -1,9 +1,9 @@
 #! /bin/bash
 
 #default
-#Copyright (C) 2023 Floating dream All rights reserved
-OSNAME=CuteOS
-VERSION=23.03.1
+#Copyright (C) 2023 OUR-SOVIET All rights reserved
+OSNAME=SUOS
+VERSION=1.0
 AMTR=amd
 FRWORK=64
 TYPE=desktop
